@@ -1,16 +1,5 @@
-# mukrata_sau_project
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/209d0856-6225-4e11-932d-465151070967)
+![image](https://github.com/user-attachments/assets/5f7adcb1-8a29-40f1-a389-fbe61a0174e6)
+![image](https://github.com/user-attachments/assets/6c3f9941-80c3-49ae-8e2d-72d8fc9f2748)
+![image](https://github.com/user-attachments/assets/8c63d99f-5f9d-4e0a-bb37-138a83b57253)
+![image](https://github.com/user-attachments/assets/9c842913-3267-47ef-8ee0-083563d4b352)
